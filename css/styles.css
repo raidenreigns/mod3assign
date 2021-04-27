@@ -1,0 +1,88 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+body {
+	font-size: 16px;
+	color: #ffff;
+	background-color: #611222;
+	font-family: 'Oxygen' , sans-serif;
+}
+
+#header-nav {
+	background-color: #f6b319;
+	border-radius:0;
+	border:0;
+
+	}
+
+
+
+
+
+.navbar-brand h1 {/* Restaurent name */
+font-family: 'Lora', serif;
+color:#557c3e;
+font-size: 1.5em;
+font-weight: bold;
+text-shadow: 1px 1px 1px #222;
+margin-top:0;
+margin-bottom:0;
+line-height: .75;
+}
+
+
+h1{
+	text-align: center;
+}
+
+.block {
+	width:auto;
+	height: auto;
+	text-align: center;
+	background-clip: border-box;
+	background-color: lightgray;
+	position: relative;
+	width:100%;
+	left-margin:100px;
+	color:black;
+
+}
+
+
+.para {
+	text-align: left;
+	padding: 20px;
+	font-style: italic;
+}
+
+.p1{
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+
+
+/*large devices*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
